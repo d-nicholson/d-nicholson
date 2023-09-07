@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-nicholson
 - 👀 I’m interested in data science and machine learning, mainly for application in the finance and energy industries.
-- 🌱 I’m currently learning Django, Dash and Go.
+- 🌱 I’m currently learning Plotly Dash, AWS cloud services and Go.
 - 💞️ I’m looking to collaborate on machine learning for UK stock selection.
 - 📫 How to reach me ...
 
